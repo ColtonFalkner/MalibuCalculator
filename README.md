@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 
 1. The calculations must be complete on the back-end in PHP
 2. The front-end should utilize a partial render to present the answer without reloading the entire page
