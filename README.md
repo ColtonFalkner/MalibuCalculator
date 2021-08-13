@@ -1,3 +1,5 @@
+Build a standard calculator that uses Javascript and CSS to present and operate the front-end, and uses PHP on the back end to handle the calculations.
+
 # Requirements
 
 1. The calculations must be complete on the back-end in PHP
