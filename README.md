@@ -5,4 +5,4 @@
 3. If the output of the calculation is equal to 1982 (the year Malibu was founded), show confetti for 1 second
 4. The format of the calculator front end should match the image below.
 
-![Malibu Calculator] (https://ibb.co/2sPCK9t)
+![Malibu Calculator](https://i.imgur.com/bVkhqDy.png)
